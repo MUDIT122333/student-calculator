@@ -65,7 +65,7 @@ calculator/
 
 
 ▶️ How to Run
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/MUDIT122333/student-calculator.git
 Open the project folder.
 
 Double-click calculator.html
